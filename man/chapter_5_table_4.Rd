@@ -1,6 +1,5 @@
 \name{chapter_5_table_4}
 \alias{chapter_5_table_4}
-\alias{c5t4}
 \docType{data}
 \title{
 The data used in Chapter 5 for Table 4.
@@ -12,8 +11,8 @@ The data used in Chapter 5 for Table 4.
 \format{
   A data frame with 24 observations on the following 2 variables.
   \describe{
-    \item{\code{Group Number}}{a numeric vector between 1 and 4;group number}
-    \item{\code{SBP}}{blood pressure of a patient within one of the four variable groups}
+    \item{group}{a numeric vector between 1 and 4;group number}
+    \item{sbp}{systolic blood pressure of a patient within one of the four groups}
   }
 }
 \details{The following data consists of blood pressure measurements for six individuals randomly assigned to one of four groups. Our purpose here is to perform four planed contrasts in order to discern if group differences exist for the selected contrasts of interests.

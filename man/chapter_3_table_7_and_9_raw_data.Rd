@@ -2,8 +2,6 @@
 \alias{chapter_3_table_7_and_9_raw_data}
 \alias{chapter_3_table_7_raw_data}
 \alias{chapter_3_table_9_raw_data}
-\alias{c3t7_raw}
-\alias{c3t9_raw}
 \docType{data}
 \title{
 The raw data used in Chapter 3 for Tables 7 and 9.

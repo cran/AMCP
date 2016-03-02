@@ -1,6 +1,5 @@
 \name{chapter_7_table_1}
 \alias{chapter_7_table_1}
-\alias{c7t1}
 \docType{data}
 \title{
 The data used in Chapter 7 for Table 1.
@@ -12,8 +11,8 @@ The data used in Chapter 7 for Table 1.
 \format{
   A data frame with 20 observations on the following 2 variables.
   \describe{
-    \item{\code{Group}}{a numeric vector between 1 and 4 equal to the drug therapy group}
-    \item{\code{Score}}{the blood pressure of one of the individuals in the study}
+    \item{group}{a numeric vector between 1 and 4 equal to the drug therapy group}
+    \item{score}{the blood pressure of one of the individuals in the study}
   }
 }
 \details{This data is the hypothetical data from a psychologist's evaluation of the effectiveness of biofeedback and drug therapy for treating hypertension (lowering blood pressure). There are four groups: both biofeedback training and drug therapy, biofeedback but not drug therapy, drug therapy but no biofeedback, and neither biofeedback nor drug therapy... As usual, in this data set, the number of subjects is kept small to minimize the computational burden. We assume that the scores in the table represent systolic blood pressure readings taken at the end of the treatment period.

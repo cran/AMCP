@@ -1,6 +1,5 @@
 \name{chapter_3_table_1}
 \alias{chapter_3_table_1}
-\alias{c3t1}
 \docType{data}
 \title{
 The iq example from Chapter 3, Table 1
@@ -11,7 +10,7 @@ Hyperactive children's WISC-R scores}
 \format{
   A data frame with 6 observations on the following variable.
   \describe{
-    \item{\code{IQ}}{IQ score from the WISC-R}
+    \item{iq}{IQ score from the WISC-R}
   }
 }
 \details{

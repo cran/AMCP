@@ -1,6 +1,5 @@
 \name{chapter_2_table_1}
 \alias{chapter_2_table_1}
-\alias{c2t1}
 \docType{data}
 \title{
 The data used in Chapter 2 for Table 1.
@@ -11,9 +10,9 @@ Scores on Bayley Mental Scale (in months) for 10 pairs of twins, where the perfo
 \format{
   A data frame with 10 observations on the following 3 variables.
   \describe{
-    \item{\code{Treatment Group Scores}}{scores for the treatment group}
-    \item{\code{Control Group Scores}}{scores for the control group}
-    \item{\code{Week Number}}{identifies the week}
+    \item{treat}{\code{Treatment Group Scores} scores for the treatment group}
+    \item{control}{\code{Control Group Scores} scores for the control group}
+    \item{week}{\code{Week Number} identifies the week}
   }
 }
 \details{

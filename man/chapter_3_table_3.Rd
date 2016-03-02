@@ -1,6 +1,5 @@
 \name{chapter_3_table_3}
 \alias{chapter_3_table_3}
-\alias{c3t3}
 \docType{data}
 \title{
 The data used in Chapter 3, Table 3.
@@ -12,8 +11,8 @@ The data used in Chapter 3, Table 3.
 \format{
   A data frame with 30 observations on the following 2 variables.
   \describe{
-    \item{\code{Assigned Condition}}{a numeric vector; 1=Pleasant/elated, 2=Neutral, 3=Unpleasant/depressed}
-    \item{\code{Mood}}{a numeric vector between 1 and 7}
+    \item{cond}{Assigned Condition: a numeric vector (1=Pleasant/elated, 2=Neutral, 3=Unpleasant/depressed)}
+    \item{mood}{a numeric vector between 1 and 7}
   }
 }
 \details{

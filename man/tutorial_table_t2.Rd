@@ -1,6 +1,5 @@
 \name{tutorial_table_t2}
 \alias{tutorial_table_t2}
-\alias{tt2}
 \docType{data}
 \title{
 The data used in Tutorial 1 for Table 2.

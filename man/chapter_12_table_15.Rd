@@ -1,6 +1,5 @@
 \name{chapter_12_table_15}
 \alias{chapter_12_table_15}
-\alias{c12t15}
 \docType{data}
 \title{
 The data used in Chapter 12 Table 15.

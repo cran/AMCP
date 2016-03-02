@@ -1,6 +1,5 @@
 \name{tutorial_1_bdi}
 \alias{tutorial_1_bdi}
-\alias{t1_bdi}
 \docType{data}
 \title{
 The data used in Tutorial 1 for bdi.
