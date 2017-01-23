@@ -1,6 +1,6 @@
-5a89d05ce4721fa426b13d08d28bc1ae *DESCRIPTION
+f7776d7b7e1666543dadd1c537ed7a9e *DESCRIPTION
 8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
-d16e990f3e07e3a169a4ca332633e8d2 *build/partial.rdb
+0ec9e110d3bf8616f59372dd8ec0583f *build/partial.rdb
 a6ed9539be5d69a38f372a3d7b16ff45 *data/chapter_10_table_5.rda
 bc5ad52e18609ae844e3fe75eada3628 *data/chapter_10_table_9.rda
 0b32abd27f1ba134f2b0872dbd897e01 *data/chapter_11_table_1.rda
@@ -28,7 +28,7 @@ a4704dae81ede0ab98963946041f0597 *data/chapter_14_table_8.rda
 1c9bed8403853f2b99d573cbdb1704b2 *data/chapter_15_table_1.rda
 dbc7c0c7baf106a9811a339ea0c2552c *data/chapter_16_table_1.rda
 6c9141199d52bf9ab01a84d2aba12ef9 *data/chapter_16_table_4.rda
-9f701b0a6baa64306e951102b3fdedde *data/chapter_2_table_1.rda
+14ed1c889d6eba980ba9d431926e1b5f *data/chapter_1_table_1.rda
 807fd2266b19d94eb6a3572f0a15de40 *data/chapter_3_table_1.rda
 a767ecfaf751686cbf5c7937886ca734 *data/chapter_3_table_3.rda
 f197677706f745f1fdd1d9e298ccfc1d *data/chapter_3_table_7_and_9_raw_data.rda
@@ -51,7 +51,7 @@ dc5473a5e0035b36931dfe99df62de4c *data/tutorial_1_bdi.rda
 30a6c78d7ec402f411b51e455e4b8a1d *data/tutorial_table_t1.rda
 755d84d8eb7b39f9845217dffe3b4c73 *data/tutorial_table_t2.rda
 658bfa73f8a3beac885f6b1ecea37f2e *data/tutorial_table_t3.rda
-ded7478543407197372c18fb71f1a16a *man/AMCP-package.Rd
+ac0ff4b3dee39f32304a77c4546250c5 *man/AMCP-package.Rd
 de987984de746dbf16ad9fa04e76e0e3 *man/chapter_10_table_5.Rd
 8b797cbdb959c8c0014f54fd00536cb1 *man/chapter_10_table_9.Rd
 198b8c347210995eb0b219e668173dda *man/chapter_11_table_1.Rd
@@ -79,7 +79,7 @@ e2ada2f4c2aea91420324934dc2d6bad *man/chapter_14_table_3.Rd
 ff8b2db8630dc9c51cf1c6d6c43eee94 *man/chapter_15_table_1.Rd
 db714c1786e7434f147aa8081967229b *man/chapter_16_table_1.Rd
 7459a0c97ef2527c95f719890596bb65 *man/chapter_16_table_4.Rd
-21696246e7fc0a09ee92b45a5c5520a2 *man/chapter_2_table_1.Rd
+1d36ac8e70c24c84967a8b8e90743525 *man/chapter_1_table_1.Rd
 f78febe69f69f3ec5040d6ee059a60b7 *man/chapter_3_table_1.Rd
 29d21aae44d7cc0a3d8b75afe2dfa351 *man/chapter_3_table_3.Rd
 ec020588dbeefc5570be361038d619bb *man/chapter_3_table_7_and_9_raw_data.Rd
