@@ -5,7 +5,6 @@
 \alias{tutorial_2_table_1}
 \alias{T2T1}
 \alias{t2t1}
-\alias{tutorial_2_table_1}
 \alias{tutorial_2_table_2}
 \alias{T2T2}
 \alias{t2t2}
@@ -14,12 +13,12 @@
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 }
 \usage{
@@ -78,10 +77,10 @@ summary(tutorial_2_table_2)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 {A} model comparison perspective} (3rd ed.). Routledge.
 
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 {A} model comparison perspective} (3rd ed.). Routledge.
 }
 \author{

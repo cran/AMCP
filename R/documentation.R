@@ -18,7 +18,7 @@
 #' @aliases C1T1 chapter_1_table_1 Chapter_1_Table_1 c1t1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -58,7 +58,7 @@
 #' @aliases C3T1 chapter_3_table_1 Chapter_3_Table_1 c3t1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -94,7 +94,7 @@
 #' @aliases C3T3 chapter_3_table_3 Chapter_3_Table_3 c3t3
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -129,10 +129,10 @@
 #' 
 #' @docType data
 #' @name chapter_3_table_7_raw
-#' @aliases C3T7R chapter_3_table_7_raw Chapter_3_Rable_7_Raw c3t7r
+#' @aliases C3T7R chapter_3_table_7_raw Chapter_3_Table_7_Raw c3t7r
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -168,10 +168,10 @@
 #' 
 #' @docType data
 #' @name chapter_3_table_9_raw
-#' @aliases C3T9R chapter_3_table_9_raw Chapter_3_Rable_9_Raw c3t9r
+#' @aliases C3T9R chapter_3_table_9_raw Chapter_3_Table_9_Raw c3t9r
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -209,7 +209,7 @@
 #' @aliases C4T1 chapter_4_table_1 Chapter_4_Table_1 c4t1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -246,7 +246,7 @@
 #' @aliases C4T7 chapter_4_table_7 Chapter_4_Table_7 c4t7
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -282,7 +282,7 @@
 #' @aliases C5T4 chapter_5_table_4 Chapter_5_Table_4 c5t4
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -319,7 +319,7 @@
 #' @aliases C6T1 chapter_6_table_1 Chapter_6_Table_1 c6t1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -360,7 +360,7 @@
 #' @aliases C7T1 chapter_7_table_1 Chapter_7_Table_1 c7t1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -400,7 +400,7 @@
 #' @aliases C7T5 chapter_7_table_5 Chapter_7_Table_5 c7t5
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -438,7 +438,7 @@
 #' @aliases C7T9 chapter_7_table_9 Chapter_7_Table_9 c7t9
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -477,7 +477,7 @@
 #' @aliases C7T11 chapter_7_table_11 Chapter_7_Table_11 c7t11
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -519,7 +519,7 @@
 #' @aliases C7T15 chapter_7_table_15 Chapter_7_Table_15 c7t15
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -562,7 +562,7 @@
 #' @aliases C7T15 chapter_7_table_15 Chapter_7_Table_15 c7t15
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -603,7 +603,7 @@
 #' @aliases C7T23 chapter_7_table_23 Chapter_7_Table_23 c7t23
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -643,7 +643,7 @@
 #' @aliases C8T12 chapter_8_table_12 Chapter_8_Table_12 c8t12
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -683,7 +683,7 @@
 #' @aliases C9T1 chapter_9_table_1 Chapter_9_Table_1 c9t1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -722,7 +722,7 @@
 #' @aliases C9T7 chapter_9_table_7 Chapter_9_Table_7 c9t7
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -762,7 +762,7 @@
 #' @aliases C9T11 chapter_9_table_11 Chapter_9_Table_11 c9t11
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -801,7 +801,7 @@
 #' @aliases C9ExtT1 chapter_9_extension_table_1 Chapter_9_Extension_Table_1 c9extt1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -845,7 +845,7 @@
 #' @aliases C10T5 chapter_10_table_5 Chapter_10_Table_5 c10t5
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -884,7 +884,7 @@
 #' @aliases C10T9 chapter_10_table_9 Chapter_10_Table_9 c10t9
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -924,7 +924,7 @@
 #' @aliases C11T1 chapter_11_table_1 Chapter_11_Table_1 c11t1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -965,7 +965,7 @@
 #' @aliases C11T4 chapter_11_table_4 Chapter_11_Table_4 c11t4
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1006,7 +1006,7 @@
 #' @aliases C11T5 chapter_11_table_5 Chapter_11_Table_5 c11t5
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1047,7 +1047,7 @@
 #' @aliases C11T19 chapter_11_table_19 Chapter_11_Table_19 c11t19
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1089,7 +1089,7 @@
 #' @aliases C11T20 chapter_11_table_20 Chapter_11_Table_20 c11t20
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1132,7 +1132,7 @@
 #' @aliases C12T1 chapter_12_table_1 Chapter_12_Table_1 c12t1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1172,7 +1172,7 @@
 #' @aliases C12T7 chapter_12_table_7 Chapter_12_Table_7 c12t7
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1210,7 +1210,7 @@
 #' @aliases C12T9 chapter_12_table_9 Chapter_12_Table_9 c12t9
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1249,7 +1249,7 @@
 #' @aliases C12T11 chapter_12_table_11 Chapter_12_Table_11 c12t11
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1288,7 +1288,7 @@
 #' @aliases C12T15 chapter_12_table_15 Chapter_12_Table_15 c12t15
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1331,7 +1331,7 @@
 #' @aliases C12T21 chapter_12_table_21 Chapter_12_Table_21 c12t21
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1372,7 +1372,7 @@
 #' @aliases C13T1 chapter_13_table_1 Chapter_13_Table_1 c13t1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1412,7 +1412,7 @@
 #' @aliases C13T2 chapter_13_table_2 Chapter_13_Table_2 c13t2
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1453,7 +1453,7 @@
 #' @aliases C13T5 chapter_13_table_5 Chapter_13_Table_5 c13t5
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1494,7 +1494,7 @@
 #' @aliases C13T12 chapter_13_table_12 Chapter_13_Table_12 c13t12
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1532,7 +1532,7 @@
 #' @aliases C13T12 chapter_13_table_12 Chapter_13_Table_12 c13t12
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1570,7 +1570,7 @@
 #' @aliases C13T14 chapter_13_table_14 Chapter_13_Table_14 c13t14
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1610,7 +1610,7 @@
 #' @aliases C14T1 chapter_14_table_1 Chapter_14_Table_1 c14t1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1651,7 +1651,7 @@
 #' @aliases C14T3 chapter_14_table_3 Chapter_14_Table_3 c14t3
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1693,7 +1693,7 @@
 #' @aliases C14T4 chapter_14_table_4 Chapter_14_Table_4 c14t4
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1734,7 +1734,7 @@
 #' @aliases C14T5 chapter_14_table_5 Chapter_14_Table_5 c14t5
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1775,7 +1775,7 @@
 #' @aliases C14T8 chapter_14_table_8 Chapter_14_Table_8 c14t8
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1815,7 +1815,7 @@
 #' @aliases C14T10 chapter_14_table_10 Chapter_14_Table_10 c14t10
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1856,7 +1856,7 @@
 #' @aliases C15T1 chapter_15_table_1 Chapter_15_Table_1 c15t1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1894,7 +1894,7 @@
 #' @aliases C16T1 chapter_16_table_1 Chapter_16_Table_1 c16t1
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1937,7 +1937,7 @@
 #' @aliases C16T4 chapter_16_table_4 Chapter_16_Table_4 c16t4
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -1977,7 +1977,7 @@
 #' @aliases C1E18 chapter_1_exercise_18 Chapter_1_Exercise_18 c1e18
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -2011,7 +2011,7 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -2048,7 +2048,7 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -2086,7 +2086,7 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -2124,7 +2124,7 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -2161,7 +2161,7 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -2199,7 +2199,7 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -2236,7 +2236,7 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
@@ -2274,10 +2274,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_3_exercise_19
@@ -2313,10 +2313,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_3_exercise_20
@@ -2350,10 +2350,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_3_exercise_21
@@ -2390,10 +2390,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_3_exercise_22
@@ -2427,10 +2427,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_4_exercise_11
@@ -2464,10 +2464,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_4_exercise_12
@@ -2501,10 +2501,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_4_exercise_13
@@ -2538,10 +2538,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_5_exercise_5
@@ -2575,10 +2575,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_5_exercise_10
@@ -2612,10 +2612,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_5_exercise_16
@@ -2649,10 +2649,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_6_exercise_10
@@ -2686,10 +2686,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_6_exercise_14
@@ -2726,10 +2726,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_6_exercise_16
@@ -2764,10 +2764,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_7_exercise_6
@@ -2802,10 +2802,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_7_exercise_9
@@ -2840,10 +2840,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_7_exercise_12
@@ -2878,10 +2878,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_7_exercise_13
@@ -2916,10 +2916,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_7_exercise_14
@@ -2954,10 +2954,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_7_exercise_15
@@ -2992,10 +2992,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_7_exercise_18
@@ -3030,10 +3030,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_7_exercise_19
@@ -3069,10 +3069,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_7_exercise_22
@@ -3108,10 +3108,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_7_exercise_23
@@ -3147,10 +3147,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_7_exercise_24
@@ -3186,10 +3186,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_7_exercise_25
@@ -3225,10 +3225,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_8_exercise_15
@@ -3264,10 +3264,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_8_exercise_16
@@ -3303,10 +3303,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_8_exercise_17
@@ -3343,10 +3343,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_8_exercise_18
@@ -3383,10 +3383,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_8_exercise_19
@@ -3421,10 +3421,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_9_exercise_4
@@ -3448,23 +3448,143 @@
 #' 
 "chapter_9_exercise_4"
 
+#' The data used in Chapter 9, Exercise 14
+#' 
+#' Data from Chapter 9 Exercise 14 of \emph{Designing Experiments and Analyzing Data: A Model Comparison Perspective} (3rd edition; Maxwell, Delaney, & Kelley). 
+#' 
+#' \itemize{
+#' \item ID. 
+#' \item Condition.
+#' \item EmotClose.
+#' \item Anger.}
+#' 
+#' @author Ken Kelley \email{kkelley@nd.edu}
+#' @source \url{https://designingexperiments.com/data/}
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+#' @references
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' {A} model comparison perspective} (3rd ed.). Routledge.
+#' @docType data
+#' @name chapter_9_exercise_14
+#' @aliases chapter_9_exercise_14 Chapter_9_Exercise_14 C9E14 c9e14
+#' @keywords datasets
+#' @usage data(chapter_9_exercise_14)
+#' @section Synonym:
+#' C9E14
+#' @examples
+#' # Load the data
+#' data(chapter_9_exercise_14)
+#' 
+#' # Or, alternatively load the data as
+#' data(C9E14)
+#' 
+#' # View the structure
+#' str(chapter_9_exercise_14)
+#' 
+#' # Brief summary of the data.
+#' summary(chapter_9_exercise_14)
+#' 
+"chapter_9_exercise_14"
+
+#' The data used in Chapter 9, Exercise 15
+#' 
+#' Data from Chapter 9 Exercise 15 of \emph{Designing Experiments and Analyzing Data: A Model Comparison Perspective} (3rd edition; Maxwell, Delaney, & Kelley). 
+#' 
+#' \itemize{
+#' \item ID. 
+#' \item Condition.
+#' \item EmotClose.
+#' \item Anger.}
+#' 
+#' @author Ken Kelley \email{kkelley@nd.edu}
+#' @source \url{https://designingexperiments.com/data/}
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+#' @references
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' {A} model comparison perspective} (3rd ed.). Routledge.
+#' @docType data
+#' @name chapter_9_exercise_15
+#' @aliases chapter_9_exercise_15 Chapter_9_Exercise_15 C9E15 c9e15
+#' @keywords datasets
+#' @usage data(chapter_9_exercise_15)
+#' @section Synonym:
+#' C9E15
+#' @examples
+#' # Load the data
+#' data(chapter_9_exercise_15)
+#' 
+#' # Or, alternatively load the data as
+#' data(C9E15)
+#' 
+#' # View the structure
+#' str(chapter_9_exercise_15)
+#' 
+#' # Brief summary of the data.
+#' summary(chapter_9_exercise_15)
+#' 
+"chapter_9_exercise_15"
+
+#' The data used in Chapter 9, Exercise 16
+#' 
+#' Data from Chapter 9 Exercise 16 of \emph{Designing Experiments and Analyzing Data: A Model Comparison Perspective} (3rd edition; Maxwell, Delaney, & Kelley). 
+#' 
+#' \itemize{
+#' \item ID. 
+#' \item Condition.
+#' \item EmotClose.
+#' \item Anger.}
+#' 
+#' @author Ken Kelley \email{kkelley@nd.edu}
+#' @source \url{https://designingexperiments.com/data/}
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+#' @references
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' {A} model comparison perspective} (3rd ed.). Routledge.
+#' @docType data
+#' @name chapter_9_exercise_16
+#' @aliases chapter_9_exercise_16 Chapter_9_Exercise_16 C9E16 c9e16
+#' @keywords datasets
+#' @usage data(chapter_9_exercise_16)
+#' @section Synonym:
+#' C9E16
+#' @examples
+#' # Load the data
+#' data(chapter_9_exercise_16)
+#' 
+#' # Or, alternatively load the data as
+#' data(C9E16)
+#' 
+#' # View the structure
+#' str(chapter_9_exercise_16)
+#' 
+#' # Brief summary of the data.
+#' summary(chapter_9_exercise_16)
+#' 
+"chapter_9_exercise_16"
+
+
 #' The data used in Chapter 9 Extension, Exercise 1
 #' 
 #' Data from Chapter 9 Extension Exercise 1 of \emph{Designing Experiments and Analyzing Data: A Model Comparison Perspective} (3rd edition; Maxwell, Delaney, & Kelley). 
 #' 
 #' \itemize{
 #' \item ID. 
-#' \item Condition.
-#' \item EmotCLose.
-#' \item Anger.}
+#' \item RSA.
+#' \item Delay.
+#' \item SES_group.
+#' \item MaxDelay.
+#' \item RSAdev.}
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+#' @source Sturge-Apple, M. L.,  Suor, J. H., Davies, P. T., Cicchetti, D., Skibo, M. A., \& Rogosch, F. A. (2016). Vagal tone and children's delay of gratification: Differential sensitivity in resource-poor and resource-rich environments. \emph{Psychological Science}, \emph{27}, 885--893.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-#' {A} model comparison perspective} (3rd ed.). Routledge.
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_9_extension_exercise_1
 #' @aliases chapter_9_extension_exercise_1 Chapter_9_Extension_Exercise_1 C9ExtE1 c9exte1
@@ -3501,10 +3621,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_9_extension_exercise_2
@@ -3528,6 +3648,95 @@
 #' 
 "chapter_9_extension_exercise_2"
 
+
+#' The data used in Chapter 9 Extension, Exercise 3
+#' 
+#' Data from Chapter 9 Extension Exercise 3 of \emph{Designing Experiments and Analyzing Data: A Model Comparison Perspective} (3rd edition; Maxwell, Delaney, & Kelley). 
+#' 
+#' \itemize{
+#' \item Grade. 
+#' \item Treatment.
+#' \item IQPre.
+#' \item IQ4.
+#' \item IQ8.
+#' \item IQGain.}
+#' 
+#' @author Ken Kelley \email{kkelley@nd.edu}
+#' @source \url{https://designingexperiments.com/data/}
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+#' @references
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' {A} model comparison perspective} (3rd ed.). Routledge.
+#' @docType data
+#' @name chapter_9_extension_exercise_2
+#' @aliases chapter_9_extension_exercise_3 Chapter_9_Extension_Exercise_3 C9ExtE3 c9exte3
+#' @keywords datasets
+#' @usage data(chapter_9_extension_exercise_3)
+#' @section Synonym:
+#' C9ExtE3
+#' @examples
+#' # Load the data
+#' data(chapter_9_extension_exercise_3)
+#' 
+#' # Or, alternatively load the data as
+#' data(C9ExtE3)
+#' 
+#' # View the structure
+#' str(chapter_9_extension_exercise_3)
+#' 
+#' # Brief summary of the data.
+#' summary(chapter_9_extension_exercise_2)
+#' 
+"chapter_9_extension_exercise_3"
+
+
+# Chapter 9, Extension Figures (Only Used in Figures)
+#' The data used in Chapter 9 Extension Figures 4 and 5
+#' 
+#' Data used in the Chapter 9 Extension, Figures 4 and 5, of \emph{Designing Experiments and Analyzing Data: A Model Comparison Perspective} (3rd edition; Maxwell, Delaney, & Kelley). 
+#' 
+#' \itemize{
+#' \item Grade 
+#' \item Treatment
+#' \item IQPre
+#' \item IQ4
+#' \item IQ8
+#' \item AvPost
+#' \item IQPre_Mean
+#' \item IQPre_Centered
+#' \item TxX
+#' \item Constant1}
+#' 
+#' @author Ken Kelley \email{kkelley@nd.edu}
+#' @source \url{https://designingexperiments.com/data/}
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+#' @references
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: {A} model comparison perspective} (3rd ed.). Routledge.
+#' @docType data
+#' @name chapter_9_extension_figures_4_and_5
+#' @aliases chapter_9_extension_figures_4_and_5 Chapter_9_Extension_Figures_4_and_5 c9extfigs4and5 C9ExtFigs4and5
+#' @keywords datasets
+#' @usage data(chapter_9_extension_figures_4_and_5)
+#' @section Synonym:
+#' C9ExtE1
+#' @examples
+#' # Load the data
+#' data(chapter_9_extension_figures_4_and_5)
+#' 
+#' # Or, alternatively load the data as
+#' data(C9ExtFigs4and5)
+#' 
+#' # View the structure
+#' str(chapter_9_extension_figures_4_and_5)
+#' 
+#' # Brief summary of the data.
+#' summary(chapter_9_extension_figures_4_and_5)
+#' 
+"chapter_9_extension_figures_4_and_5"
+
+
 #' The data used in Chapter 10, Exercise 7
 #' 
 #' Data from Chapter 10 Exercise 7 of \emph{Designing Experiments and Analyzing Data: A Model Comparison Perspective} (3rd edition; Maxwell, Delaney, & Kelley). 
@@ -3539,10 +3748,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_10_exercise_7
@@ -3578,10 +3787,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_10_exercise_9
@@ -3617,10 +3826,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_10_exercise_14
@@ -3657,10 +3866,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_11_exercise_3
@@ -3695,10 +3904,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_11_exercise_5
@@ -3734,10 +3943,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_11_exercise_17
@@ -3772,10 +3981,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_11_exercise_18
@@ -3811,10 +4020,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_11_exercise_19
@@ -3849,10 +4058,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_11_exercise_21
@@ -3891,10 +4100,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_11_exercise_22
@@ -3929,10 +4138,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_11_exercise_23
@@ -3967,10 +4176,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_11_exercise_24
@@ -4007,10 +4216,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_12_exercise_9
@@ -4048,10 +4257,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_12_exercise_17
@@ -4087,10 +4296,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_12_exercise_18
@@ -4129,10 +4338,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_12_exercise_19
@@ -4169,10 +4378,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_12_exercise_21
@@ -4208,10 +4417,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_13_exercise_7
@@ -4247,10 +4456,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_13_exercise_10
@@ -4286,10 +4495,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_13_exercise_13
@@ -4324,10 +4533,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_13_exercise_14
@@ -4362,10 +4571,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_13_exercise_22
@@ -4404,10 +4613,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_13_exercise_23
@@ -4442,10 +4651,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_13_exercise_24
@@ -4480,10 +4689,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_13_exercise_25
@@ -4519,10 +4728,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_14_exercise_10
@@ -4559,10 +4768,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_14_exercise_14
@@ -4597,10 +4806,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_14_exercise_15
@@ -4637,10 +4846,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_14_exercise_21
@@ -4678,10 +4887,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_14_exercise_22
@@ -4717,10 +4926,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_15_exercise_16
@@ -4757,10 +4966,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_15_exercise_17
@@ -4796,10 +5005,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_15_exercise_18
@@ -4835,10 +5044,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_15_exercise_19
@@ -4874,10 +5083,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_15_exercise_18_univariate
@@ -4913,10 +5122,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_15_exercise_19_univariate
@@ -4952,10 +5161,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_16_exercise_5
@@ -4994,10 +5203,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_16_exercise_7
@@ -5036,10 +5245,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name chapter_16_exercise_9
@@ -5077,10 +5286,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name tutorial_1_table_1
@@ -5115,10 +5324,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name tutorial_2_table_1
@@ -5155,10 +5364,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name tutorial_2_table_1
@@ -5193,10 +5402,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name tutorial_3a_table_1
@@ -5233,10 +5442,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name tutorial_3a_table_2
@@ -5275,10 +5484,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name tutorial_3a_table_4
@@ -5317,10 +5526,10 @@
 #' 
 #' @author Ken Kelley \email{kkelley@nd.edu}
 #' @source \url{https://designingexperiments.com/data/}
-#' @source Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+#' @source Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 #' analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 #' @references
-#' Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' @docType data
 #' @name tutorial_3a_table_5

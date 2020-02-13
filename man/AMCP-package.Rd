@@ -6,22 +6,22 @@
 \alias{AMCP-package}
 \title{A Model Comparison Perspective (AMCP)}
 \description{
-AMCP contains all of the data sets used in Maxwell, Delaney, & Kelley's (forthcoming) \emph{Designing experiments and analyzing data: A model comparison perspective} (3rd edition). Information about the book is available at <http://www.DesigningExperiments.com>.
+AMCP contains all of the data sets used in Maxwell, Delaney, & Kelley's (2018) \emph{Designing experiments and analyzing data: A model comparison perspective} (3rd edition). Information about the book is available at <http://www.DesigningExperiments.com>.
 }
 \details{
 The general strategy is to have chapter data (e.g., from numeric examples) denoted by the chapter and table number, 
 such as \code{chapter_1_table_1} (for Table 1 from the Chapter 1). Alternatively, a chapter and table can be accessed by capital "C" 
-followed by the chapter number and capital "T" followed by the table number, as in \code{C1T1} (for Table 1 from the Chapter 1).
+followed by the chapter number and capital "T" followed by the table number, as in \code{C1T1} (for Table 1 from the Chapter 1). 
 
 For the exercises at the end of the chapter, the general strategy is to denote the data sets as \code{chapter_1_exercise_18} (for Exercise 18 from Chapter 1). 
 Also, an uppercase "C" and "E" can be used, as in \code{Chapter_1_Exercise_18}. Alternatively, the data from an exercise can be accessed by capital "C" 
-followed by the chapter number and capital "E" followed by the exercise number, as in \code{C1E18} (for Exercise 18 from Chapter 1).
+followed by the chapter number and capital "E" followed by the exercise number, as in \code{C1E18} (for Exercise 18 from Chapter 1). 
 
 For a data set of interest to be loaded into the workspace, it must be loaded using the \code{data()} function as: \code{data(chapter_1_table_1)}.
 
 There are a few "one-off" naming conventions for non-standard data, such as raw data to produce the output shown in the book (e.g., \code{data(chapter_3_table_7_raw)}), 
 for the data from the Chapter 9 extension used in Exercise 1 (e.g., \code{data("chapter_9_extension_exercise_1")} or \code{data("C9ExtE1")}), data for the tutorial (e.g., \code{data(tutorial_1_table_1)} or \code{data(T1T1)}), 
-or data the Chapter 15 Exercise 18 data in the "univariate" format (long, not wide; e.g., \code{data("chapter_15_exercise_18_univariate")} or \code{data(C15E18U)}).
+or data the Chapter 15 Exercise 18 data in the "univariate" format (long, not wide; e.g., \code{data("chapter_15_exercise_18_univariate")} or \code{data(C15E18U)}). 
 
 A list of the available data sets from AMCP can be obtained with the following code: \code{ta(package="AMCP")}
 
@@ -31,7 +31,7 @@ the data sets are not always in the most convenient form for analysis, as they a
 Note that \url{https://designingexperiments.com/computing/} shows R code (via R Markdown), SPSS syntax and graphical approces, and SAS code for implementing many of the analyses in the book, by chapter.
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data: 
 {A} model comparison perspective} (3rd ed.). Routledge.
 
 See the web page that accompanies the book here: \url{https://designingexperiments.com/}.

@@ -11,7 +11,7 @@
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 }
 \usage{
@@ -47,7 +47,7 @@ summary(chapter_11_exercise_19)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
 {A} model comparison perspective} (3rd ed.). Routledge.
 }
 \author{

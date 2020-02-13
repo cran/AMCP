@@ -1,6 +1,6 @@
 #' A Model Comparison Perspective (AMCP)
 #' 
-#' AMCP contains all of the data sets used in Maxwell, Delaney, & Kelley's (forthcoming) \emph{Designing experiments and analyzing data: A model comparison perspective} (3rd edition). Information about the book is available at <http://www.DesigningExperiments.com>. 
+#' AMCP contains all of the data sets used in Maxwell, Delaney, & Kelley's (2018) \emph{Designing experiments and analyzing data: A model comparison perspective} (3rd edition). Information about the book is available at <http://www.DesigningExperiments.com>. 
 #' 
 #' The general strategy is to have chapter data (e.g., from numeric examples) denoted by the chapter and table number, 
 #' such as \code{chapter_1_table_1} (for Table 1 from the Chapter 1). Alternatively, a chapter and table can be accessed by capital "C" 
@@ -23,7 +23,7 @@
 #' 
 #' Note that \url{https://designingexperiments.com/computing/} shows R code (via R Markdown), SPSS syntax and graphical approces, and SAS code for implementing many of the analyses in the book, by chapter. 
 #' 
-#' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
+#' @references Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data: 
 #' {A} model comparison perspective} (3rd ed.). Routledge.
 #' 
 #' See the web page that accompanies the book here: \url{https://designingexperiments.com/}.

@@ -6,21 +6,17 @@
 \alias{C13T12}
 \alias{Chapter_13_Table_12}
 \alias{c13t12}
-\alias{chapter_13_table_12}
-\alias{C13T12}
-\alias{Chapter_13_Table_12}
-\alias{c13t12}
 \title{The data used in Chapter 13, Table 12}
 \format{An object of class \code{data.frame} with 8 rows and 2 columns.}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 }
 \usage{

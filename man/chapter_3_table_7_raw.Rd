@@ -4,14 +4,14 @@
 \name{chapter_3_table_7_raw}
 \alias{chapter_3_table_7_raw}
 \alias{C3T7R}
-\alias{Chapter_3_Rable_7_Raw}
+\alias{Chapter_3_Table_7_Raw}
 \alias{c3t7r}
 \title{The data used for Chapter 3, Table 7 (raw data to produce the summary measures)}
 \format{An object of class \code{data.frame} with 88 rows and 3 columns.}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and 
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
 analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
 }
 \usage{
