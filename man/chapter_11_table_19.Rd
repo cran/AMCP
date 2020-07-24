@@ -7,12 +7,14 @@
 \alias{Chapter_11_Table_19}
 \alias{c11t19}
 \title{The data used in Chapter 11, Table 19}
-\format{An object of class \code{data.frame} with 24 rows and 3 columns.}
+\format{
+An object of class \code{data.frame} with 24 rows and 3 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_11_table_19)
@@ -51,8 +53,8 @@ str(chapter_11_table_19)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

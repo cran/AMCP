@@ -7,12 +7,14 @@
 \alias{C3E9}
 \alias{c3e9}
 \title{The data used in Chapter 3, Exercise 9}
-\format{An object of class \code{data.frame} with 12 rows and 2 columns.}
+\format{
+An object of class \code{data.frame} with 12 rows and 2 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_3_exercise_9)
@@ -22,7 +24,7 @@ Data from Chapter 3 Exercise 9 of \emph{Designing Experiments and Analyzing Data
 }
 \details{
 \itemize{
-\item Group. 
+\item Group.
 \item Scores.}
 }
 \section{Synonym}{
@@ -45,8 +47,8 @@ summary(chapter_3_exercise_9)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

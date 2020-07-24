@@ -11,17 +11,21 @@
 \alias{C9ExtE3}
 \alias{c9exte3}
 \title{The data used in Chapter 9 Extension, Exercise 2}
-\format{An object of class \code{data.frame} with 168 rows and 6 columns.}
+\format{
+An object of class \code{data.frame} with 168 rows and 6 columns.
+
+An object of class \code{data.frame} with 310 rows and 6 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_9_extension_exercise_2)
@@ -35,7 +39,7 @@ Data from Chapter 9 Extension Exercise 3 of \emph{Designing Experiments and Anal
 }
 \details{
 \itemize{
-\item ParticipantNumber. 
+\item ParticipantNumber.
 \item Group.
 \item BaseHrsDrkTypWk.
 \item FolHrsDrkTypWk.
@@ -43,7 +47,7 @@ Data from Chapter 9 Extension Exercise 3 of \emph{Designing Experiments and Anal
 \item BaseHrsCtrd.}
 
 \itemize{
-\item Grade. 
+\item Grade.
 \item Treatment.
 \item IQPre.
 \item IQ4.
@@ -85,11 +89,11 @@ summary(chapter_9_extension_exercise_2)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

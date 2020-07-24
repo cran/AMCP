@@ -6,12 +6,14 @@
 \alias{T1T1}
 \alias{t1t1}
 \title{The data used in Tutorial 1, Table 1}
-\format{An object of class \code{data.frame} with 102 rows and 1 columns.}
+\format{
+An object of class \code{data.frame} with 102 rows and 1 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(tutorial_1_table_1)
@@ -21,7 +23,7 @@ Data from Tutorial 1 Table 1 of \emph{Designing Experiments and Analyzing Data: 
 }
 \details{
 \itemize{
-\item Group. 
+\item Group.
 \item Score.}
 }
 \section{Synonym}{
@@ -44,8 +46,8 @@ summary(tutorial_1_table_1)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

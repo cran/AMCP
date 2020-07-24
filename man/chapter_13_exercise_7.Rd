@@ -7,12 +7,14 @@
 \alias{C13E7}
 \alias{c13e7}
 \title{The data used in Chapter 13, Exercise 7}
-\format{An object of class \code{data.frame} with 5 rows and 4 columns.}
+\format{
+An object of class \code{data.frame} with 5 rows and 4 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_13_exercise_7)
@@ -47,8 +49,8 @@ summary(chapter_13_exercise_7)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

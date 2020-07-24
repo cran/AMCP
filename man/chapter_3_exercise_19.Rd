@@ -7,12 +7,14 @@
 \alias{C3E19}
 \alias{c3e19}
 \title{The data used in Chapter 3, Exercise 19}
-\format{An object of class \code{data.frame} with 155 rows and 3 columns.}
+\format{
+An object of class \code{data.frame} with 155 rows and 3 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_3_exercise_19)
@@ -23,7 +25,7 @@ Data from Chapter 3 Exercise 19 of \emph{Designing Experiments and Analyzing Dat
 \details{
 \itemize{
 \item ID.
-\item Condition. 
+\item Condition.
 \item Anger.}
 }
 \section{Synonym}{
@@ -46,8 +48,8 @@ summary(chapter_3_exercise_19)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

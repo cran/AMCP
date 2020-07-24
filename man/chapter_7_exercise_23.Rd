@@ -7,12 +7,14 @@
 \alias{C7E23}
 \alias{c7e23}
 \title{The data used in Chapter 7, Exercise 23}
-\format{An object of class \code{data.frame} with 68 rows and 4 columns.}
+\format{
+An object of class \code{data.frame} with 68 rows and 4 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_7_exercise_23)
@@ -22,7 +24,7 @@ Data from Chapter 7 Exercise 23 of \emph{Designing Experiments and Analyzing Dat
 }
 \details{
 \itemize{
-\item id. 
+\item id.
 \item esteem.
 \item cond.
 \item mood.}
@@ -47,8 +49,8 @@ summary(chapter_7_exercise_23)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

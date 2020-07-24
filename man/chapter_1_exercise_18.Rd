@@ -7,12 +7,14 @@
 \alias{Chapter_1_Exercise_18}
 \alias{c1e18}
 \title{The data used in Chapter 1, Exercise 18}
-\format{An object of class \code{data.frame} with 4 rows and 3 columns.}
+\format{
+An object of class \code{data.frame} with 4 rows and 3 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_1_exercise_18)
@@ -22,8 +24,8 @@ Data from Chapter 1 Exercise 18 of \emph{Designing Experiments and Analyzing Dat
 }
 \details{
 \itemize{
-\item Promoted. 
-\item Minority. 
+\item Promoted.
+\item Minority.
 \item Freq. Frequency}
 }
 \section{Synonym}{
@@ -46,8 +48,8 @@ summary(chapter_1_exercise_18)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

@@ -7,12 +7,14 @@
 \alias{Chapter_3_Table_9_Raw}
 \alias{c3t9r}
 \title{The data used for Chapter 3, Table 9 (raw data to produce the summary measures)}
-\format{An object of class \code{data.frame} with 88 rows and 3 columns.}
+\format{
+An object of class \code{data.frame} with 88 rows and 3 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_3_table_9_raw)
@@ -48,8 +50,8 @@ str(chapter_3_table_9_raw)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 
 Smith, J. E., Meyers, R. J. \& Delaney, H. D. (1998). The community reinforcement approach with homeless alcohol-dependent individuals. \emph{Journal of Consulting and Clinical Psychology, 66}, 541--548.
 }

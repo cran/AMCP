@@ -7,12 +7,14 @@
 \alias{C10E9}
 \alias{c10e9}
 \title{The data used in Chapter 10, Exercise 9}
-\format{An object of class \code{data.frame} with 72 rows and 4 columns.}
+\format{
+An object of class \code{data.frame} with 72 rows and 4 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_10_exercise_9)
@@ -22,7 +24,7 @@ Data from Chapter 10 Exercise 9 of \emph{Designing Experiments and Analyzing Dat
 }
 \details{
 \itemize{
-\item BP. 
+\item BP.
 \item ResearchAssistant.
 \item Biofeedback.
 \item Diet.}
@@ -47,8 +49,8 @@ summary(chapter_10_exercise_9)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

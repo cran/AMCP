@@ -7,12 +7,14 @@
 \alias{c9extfigs4and5}
 \alias{C9ExtFigs4and5}
 \title{The data used in Chapter 9 Extension Figures 4 and 5}
-\format{An object of class \code{data.frame} with 310 rows and 10 columns.}
+\format{
+An object of class \code{data.frame} with 310 rows and 10 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_9_extension_figures_4_and_5)
@@ -22,7 +24,7 @@ Data used in the Chapter 9 Extension, Figures 4 and 5, of \emph{Designing Experi
 }
 \details{
 \itemize{
-\item Grade 
+\item Grade
 \item Treatment
 \item IQPre
 \item IQ4
@@ -53,7 +55,7 @@ summary(chapter_9_extension_figures_4_and_5)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: {A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data: {A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

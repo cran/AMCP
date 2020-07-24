@@ -7,12 +7,14 @@
 \alias{Chapter_3_Table_3}
 \alias{c3t3}
 \title{The data used in Chapter 3, Table 3}
-\format{An object of class \code{data.frame} with 30 rows and 2 columns.}
+\format{
+An object of class \code{data.frame} with 30 rows and 2 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_3_table_3)
@@ -47,8 +49,8 @@ str(chapter_3_table_3)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

@@ -7,12 +7,14 @@
 \alias{Chapter_12_Table_1}
 \alias{c12t1}
 \title{The data used in Chapter 12, Table 1}
-\format{An object of class \code{data.frame} with 10 rows and 6 columns.}
+\format{
+An object of class \code{data.frame} with 10 rows and 6 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_12_table_1)
@@ -21,7 +23,7 @@ data(chapter_12_table_1)
 The data used in Chapter 12, Table 1
 }
 \details{
-Suppose that a psychologist studying the visual system was interested in determining the extent to which interfering visual stimuli slow the abilityto recognize letters. Subjects are brought into a laboratory and seated in front of a tachistoscope. Subjects are told that they will see either the letter T or the letter I displayed on the screen. In some trials, the letter appears by itself, but in other trials, the target letter is embedded in a group of other letters. This variation in the display consitutes the first factor, which is referred to as noise. The noise factor has two levels -- absent and present. The other factor varied by the experimenter is where in the display the target letter appears. This factor, which is called angle, has three levels. The target letter is either shown at the center of the screen (0 degrees off-center, where the subject has been instructed to fixate), 4 degrees off-center or 8 degrees off-center (in each case, the deviation from the center varies randomly between left and right). 
+Suppose that a psychologist studying the visual system was interested in determining the extent to which interfering visual stimuli slow the abilityto recognize letters. Subjects are brought into a laboratory and seated in front of a tachistoscope. Subjects are told that they will see either the letter T or the letter I displayed on the screen. In some trials, the letter appears by itself, but in other trials, the target letter is embedded in a group of other letters. This variation in the display consitutes the first factor, which is referred to as noise. The noise factor has two levels -- absent and present. The other factor varied by the experimenter is where in the display the target letter appears. This factor, which is called angle, has three levels. The target letter is either shown at the center of the screen (0 degrees off-center, where the subject has been instructed to fixate), 4 degrees off-center or 8 degrees off-center (in each case, the deviation from the center varies randomly between left and right).
 The data in Table 12.1 consist of reaction time scores for 10 participants where each participant contributes 6 scores to the analysis. In particular, each participant is exposed to each of 6 experimental conditions, which are obtained by factorially combining angle (0, 4, and 8) with noise (absent and present). The tests of interest are the omnibus tests within the two-factor within-subjects ANOVA. The dependent measure is reaction time (latency), measured in milliseconds (ms), required by the subject to identify the correct target letter. Each subject has six scores.
 }
 \section{Variables}{
@@ -53,8 +55,8 @@ str(chapter_12_table_1)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

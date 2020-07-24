@@ -6,12 +6,14 @@
 \alias{T3AT2}
 \alias{t3at2}
 \title{The data used in Tutorial 3A, Table 2}
-\format{An object of class \code{data.frame} with 8 rows and 4 columns.}
+\format{
+An object of class \code{data.frame} with 8 rows and 4 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(tutorial_3a_table_2)
@@ -21,7 +23,7 @@ Data from Tutorial 3A Table 2 of \emph{Designing Experiments and Analyzing Data:
 }
 \details{
 \itemize{
-\item Y. 
+\item Y.
 \item X1.
 \item X2.
 \item X3.}
@@ -46,8 +48,8 @@ summary(tutorial_3a_table_2)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

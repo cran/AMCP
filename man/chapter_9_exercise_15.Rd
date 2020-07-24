@@ -7,12 +7,14 @@
 \alias{C9E15}
 \alias{c9e15}
 \title{The data used in Chapter 9, Exercise 15}
-\format{An object of class \code{data.frame} with 310 rows and 6 columns.}
+\format{
+An object of class \code{data.frame} with 310 rows and 6 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_9_exercise_15)
@@ -22,7 +24,7 @@ Data from Chapter 9 Exercise 15 of \emph{Designing Experiments and Analyzing Dat
 }
 \details{
 \itemize{
-\item ID. 
+\item ID.
 \item Condition.
 \item EmotClose.
 \item Anger.}
@@ -47,8 +49,8 @@ summary(chapter_9_exercise_15)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

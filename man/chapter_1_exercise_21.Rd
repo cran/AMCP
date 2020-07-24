@@ -7,12 +7,14 @@
 \alias{C1E21}
 \alias{c1e21}
 \title{The data used in Chapter 1, Exercise 21}
-\format{An object of class \code{data.frame} with 12 rows and 2 columns.}
+\format{
+An object of class \code{data.frame} with 12 rows and 2 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_1_exercise_21)
@@ -22,7 +24,7 @@ Data from Chapter 1 Exercise 21 of \emph{Designing Experiments and Analyzing Dat
 }
 \details{
 \itemize{
-\item Experimental. 
+\item Experimental.
 \item Control.}
 }
 \section{Synonym}{
@@ -45,8 +47,8 @@ summary(chapter_1_exercise_21)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

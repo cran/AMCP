@@ -7,12 +7,14 @@
 \alias{C10E14}
 \alias{c10e14}
 \title{The data used in Chapter 10, Exercise 14}
-\format{An object of class \code{data.frame} with 63 rows and 4 columns.}
+\format{
+An object of class \code{data.frame} with 63 rows and 4 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_10_exercise_14)
@@ -22,7 +24,7 @@ Data from Chapter 10 Exercise 14 of \emph{Designing Experiments and Analyzing Da
 }
 \details{
 \itemize{
-\item Composite. 
+\item Composite.
 \item Therapist.
 \item Modality.
 \item Therapist_w_Modality}
@@ -47,8 +49,8 @@ summary(chapter_10_exercise_14)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

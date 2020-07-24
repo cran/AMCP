@@ -7,21 +7,24 @@
 \alias{C1E23}
 \alias{c1e23}
 \title{The data used in Chapter 1, Exercise 23}
-\format{An object of class \code{data.frame} with 12 rows and 3 columns.}
+\format{
+An object of class \code{data.frame} with 12 rows and 3 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_1_exercise_23)
 }
 \description{
-Data from Chapter 1 Exercise 23 of \emph{Designing Experiments and Analyzing Data: A Model Comparison Perspective} (3rd edition; Maxwell, Delaney, & Kelley). 
- 
+Data from Chapter 1 Exercise 23 of \emph{Designing Experiments and Analyzing Data: A Model Comparison Perspective} (3rd edition; Maxwell, Delaney, & Kelley).
+}
+\details{
 \itemize{
-\item Group. 
+\item Group.
 \item Cholesterol.
 \item Cholesterol_Category_MedianSplit.}
 }
@@ -45,8 +48,8 @@ summary(chapter_1_exercise_23)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}

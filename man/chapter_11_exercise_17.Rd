@@ -7,12 +7,14 @@
 \alias{C11E17}
 \alias{c11e17}
 \title{The data used in Chapter 11, Exercise 17}
-\format{An object of class \code{data.frame} with 14 rows and 4 columns.}
+\format{
+An object of class \code{data.frame} with 14 rows and 4 columns.
+}
 \source{
 \url{https://designingexperiments.com/data/}
 
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and 
-analyzing data: {A} model comparison perspective}. (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
+analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 }
 \usage{
 data(chapter_11_exercise_17)
@@ -22,7 +24,7 @@ Data from Chapter 11 Exercise 17 of \emph{Designing Experiments and Analyzing Da
 }
 \details{
 \itemize{
-\item Day1. 
+\item Day1.
 \item Day2.
 \item Day3.
 \item Day4.}
@@ -47,8 +49,8 @@ summary(chapter_11_exercise_17)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., & Kelley, K. (forthcoming). \emph{Designing experiments and analyzing data: 
-{A} model comparison perspective} (3rd ed.). Routledge.
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+{A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}
