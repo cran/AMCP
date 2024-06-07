@@ -28,7 +28,7 @@ The following data consists of blood pressure measurements for six individuals r
 \section{Variables}{
 
 \describe{
-\item{group}{a numeric vector between 1 and 4;group number}
+\item{group}{a numeric vector between 1 and 4; group number}
 \item{sbp}{systolic blood pressure of a patient within one of the four groups}}
 }
 
@@ -49,7 +49,7 @@ str(chapter_5_table_4)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
 {A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{

@@ -36,7 +36,7 @@ The data used in Chapter 7, Table 15
 \details{
 The following hypothetical salary data represents a nonorthogonal two-by-two factorial design. The first factor (sex) is crossed with college (degree or no degree). The primary question of interest is whether or not there is sex discrimination in terms of salary.
 
-The data in Table 7.15 presents hypothetical data (in thousands) for 12 females and 10 males who have just been hired by the organization. The mean salary for the 12 females is \$22,333, whereas the mean for the 10 males is \$22,100. The data in Table 7.15 also contains information about an additional characteristic of employees, namely whether they received a college degree. It is clear from the data that a majority of the new female employees are college graduates, whereas a majority of the males are not.
+The data in Table 7.15 presents hypothetical data (in thousands) for 12 females and 10 males who have just been hired by the organization. The mean salary for the 12 females is $22,333, whereas the mean for the 10 males is $22,100. The data in Table 7.15 also contains information about an additional characteristic of employees, namely whether they received a college degree. It is clear from the data that a majority of the new female employees are college graduates, whereas a majority of the males are not.
 
 Table 7.23 shows hypothetical MMPI scores for 45 participants, each of whom is placed in one cell of a 3x3 design. One factor (A, the row factor) is type of therapy. The other factor (B, the column factor) is degree of severity.
 
@@ -61,7 +61,7 @@ The data represents the relative effectiveness of three forms of psychotherapy f
 }
 
 \section{Synonym}{
-
+ 
 C7T15
 
 
@@ -89,15 +89,13 @@ str(chapter_7_table_15)
 
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
 {A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
 {A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{
-Ken Kelley \email{kkelley@nd.edu}
-
 Ken Kelley \email{kkelley@nd.edu}
 }
 \keyword{datasets}

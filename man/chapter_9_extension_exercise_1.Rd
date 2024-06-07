@@ -16,7 +16,7 @@ An object of class \code{data.frame} with 140 rows and 6 columns.
 Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and
 analyzing data: {A} model comparison perspective}. (3rd ed.). New York, NY: Routledge.
 
-Sturge-Apple, M. L.,  Suor, J. H., Davies, P. T., Cicchetti, D., Skibo, M. A., \& Rogosch, F. A. (2016). Vagal tone and children's delay of gratification: Differential sensitivity in resource-poor and resource-rich environments. \emph{Psychological Science}, \emph{27}, 885--893.
+Sturge-Apple, M. L.,  Suor, J. H., Davies, P. T., Cicchetti, D., Skibo, M. A., & Rogosch, F. A. (2016). Vagal tone and children's delay of gratification: Differential sensitivity in resource-poor and resource-rich environments. \emph{Psychological Science}, \emph{27}, 885--893.
 }
 \usage{
 data(chapter_9_extension_exercise_1)

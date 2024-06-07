@@ -31,7 +31,7 @@ the data sets are not always in the most convenient form for analysis, as they a
 Note that \url{https://designingexperiments.com/computing/} shows R code (via R Markdown), SPSS syntax and graphical user interface approaches, along with SAS code for implementing many of the analyses in the book, by chapter.
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
 {A} model comparison perspective} (3rd ed.). New York, NY. Routledge.
 
 See the web page that accompanies the book here: \url{https://designingexperiments.com/}.

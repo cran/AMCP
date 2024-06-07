@@ -52,7 +52,7 @@ summary(chapter_1_table_1[chapter_1_table_1$week==1,])
 summary(chapter_1_table_1[chapter_1_table_1$week==2,])
 }
 \references{
-Maxwell, S. E., Delaney, H. D., \& Kelley, K. (2018). \emph{Designing experiments and analyzing data:
+Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments and analyzing data:
 {A} model comparison perspective} (3rd ed.). New York, NY: Routledge.
 }
 \author{

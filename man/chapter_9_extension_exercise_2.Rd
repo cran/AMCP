@@ -97,7 +97,5 @@ Maxwell, S. E., Delaney, H. D., & Kelley, K. (2018). \emph{Designing experiments
 }
 \author{
 Ken Kelley \email{kkelley@nd.edu}
-
-Ken Kelley \email{kkelley@nd.edu}
 }
 \keyword{datasets}
